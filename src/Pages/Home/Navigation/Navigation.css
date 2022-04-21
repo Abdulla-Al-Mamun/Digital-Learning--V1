@@ -1,0 +1,17 @@
+.nav-container a{
+    text-decoration: none;
+    color: white;
+    margin-right: 2%;
+    font-weight: 800;
+}
+.nav-container{
+    background-color: blue;
+    line-height: 60px;
+}
+#login a{
+    color:black;
+    
+}
+#login{
+    width: 15%;
+}
